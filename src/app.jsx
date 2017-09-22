@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import UserInput from '../components/UserInput';
-import Denominations from '../components/Denominations';
+import UserInput from './UserInput';
+import Denominations from './Denominations';
 
 class App extends Component {
   constructor(props) {
